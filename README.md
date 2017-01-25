@@ -1,0 +1,2 @@
+# MyPuppetZone
+My Puppet resources
